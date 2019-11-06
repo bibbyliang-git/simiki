@@ -6,6 +6,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/tankywoo/simiki.svg)](https://coveralls.io/r/tankywoo/simiki)
 
 Simiki is a simple wiki framework, written in [Python](https://www.python.org/).
+中文文档http://simiki.org/zh-docs/
 
 * Easy to use. Creating a wiki only needs a few steps
 * Use [Markdown](http://daringfireball.net/projects/markdown/). Just open your editor and write
